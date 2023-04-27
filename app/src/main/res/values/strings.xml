@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Baith21</string>
+    <string-array name="category">
+        <item>Chưa Thực Hiện</item>
+        <item>Đang Thực Hiện</item>
+        <item>Hoàn Thành</item>
+    </string-array>
+</resources>
